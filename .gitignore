@@ -1,0 +1,54 @@
+# Unity-generated data and local editor preferences
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Bb]uild/
+/[Bb]uilds/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/.vs/
+/.vscode/
+/.idea/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+*.log
+*.tmp
+*.bak
+sysinfo.txt
+crashlytics-build.properties
+Thumbs.db
+.DS_Store
+
+# Local migration workbench, original backups and research captures
+/Migration/*
+!/Migration/.gitkeep
+/ReferenceResults/
+/README_UNITY_6_3.md
+/Distribution/
+
+# Local credentials; publish examples explicitly if needed later
+.env
+.env.*
+!.env.example
+*.pfx
+*.p12
+*.keystore
+*.jks
+
+# Unity regenerates these metadata files
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta

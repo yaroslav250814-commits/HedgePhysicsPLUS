@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SpringAnimations
+  m_Controller: {fileID: 9100000, guid: 02a6673714d86e748a9f9c354d209032, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 7009a6fcf832d68459d8f4e2279cced5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: dfbfdf1cc528f9c49bae0ce5375c2693, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b7baca4bc5dc1704a90ab7fedc13a209, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c2d91ef60fabc214ab9fc5e9e982eb7c, type: 2}

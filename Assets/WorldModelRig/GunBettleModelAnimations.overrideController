@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GunBettleModelAnimations
+  m_Controller: {fileID: 9100000, guid: ccb48f6ac82f01a41969c29e4e4bdf15, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 0ca0e555976db54409faa2e2ca266264, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a829460fbf4079c4eba95359cfa6a7b6, type: 2}

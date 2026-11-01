@@ -1,0 +1,269 @@
+{
+  "controlSchemes": [],
+  "maps": [
+    {
+      "bindings": [
+        {
+          "id": "4a47419f-3b7b-4388-ab4d-7ab967662163",
+          "name": "WASD",
+          "isComposite": true,
+          "action": "Move",
+          "isPartOfComposite": false,
+          "path": "2DVector"
+        },
+        {
+          "id": "116a9c54-0b04-4e6b-9500-f05051eddd19",
+          "name": "up",
+          "isComposite": false,
+          "action": "Move",
+          "isPartOfComposite": true,
+          "path": "<Keyboard>/w"
+        },
+        {
+          "id": "16a375f6-0717-4434-8675-50d1d72803b7",
+          "name": "down",
+          "isComposite": false,
+          "action": "Move",
+          "isPartOfComposite": true,
+          "path": "<Keyboard>/s"
+        },
+        {
+          "id": "0779587c-0231-4eb2-bd7d-bc61502204bb",
+          "name": "left",
+          "isComposite": false,
+          "action": "Move",
+          "isPartOfComposite": true,
+          "path": "<Keyboard>/a"
+        },
+        {
+          "id": "39022163-3bc8-4fd5-8fb0-2e7578d8e27d",
+          "name": "right",
+          "isComposite": false,
+          "action": "Move",
+          "isPartOfComposite": true,
+          "path": "<Keyboard>/d"
+        },
+        {
+          "id": "5c8f96b3-1518-4451-93fc-a4e8c0a1c215",
+          "name": "Arrows",
+          "isComposite": true,
+          "action": "Move",
+          "isPartOfComposite": false,
+          "path": "2DVector"
+        },
+        {
+          "id": "5954c79e-9809-460e-9dde-32b0c763c92f",
+          "name": "up",
+          "isComposite": false,
+          "action": "Move",
+          "isPartOfComposite": true,
+          "path": "<Keyboard>/upArrow"
+        },
+        {
+          "id": "ba6008e4-5670-40ab-b976-d5a40ea16a50",
+          "name": "down",
+          "isComposite": false,
+          "action": "Move",
+          "isPartOfComposite": true,
+          "path": "<Keyboard>/downArrow"
+        },
+        {
+          "id": "e72c42a1-d6a1-46e5-8a45-29da712eae73",
+          "name": "left",
+          "isComposite": false,
+          "action": "Move",
+          "isPartOfComposite": true,
+          "path": "<Keyboard>/leftArrow"
+        },
+        {
+          "id": "667a1f01-4859-49b8-aa1d-f5496764bdae",
+          "name": "right",
+          "isComposite": false,
+          "action": "Move",
+          "isPartOfComposite": true,
+          "path": "<Keyboard>/rightArrow"
+        },
+        {
+          "id": "666b1d69-8e8a-4f8c-8fd2-d4e07c3fbdc0",
+          "name": "",
+          "isComposite": false,
+          "action": "Move",
+          "isPartOfComposite": false,
+          "path": "<Gamepad>/leftStick"
+        },
+        {
+          "id": "b350ae9d-e93f-4aa3-82f5-f1c6fc777ca2",
+          "name": "",
+          "isComposite": false,
+          "action": "Look",
+          "isPartOfComposite": false,
+          "path": "<Gamepad>/rightStick"
+        },
+        {
+          "id": "f9f46a4a-1f03-4ada-aab5-6ae10b25e990",
+          "name": "",
+          "isComposite": false,
+          "action": "MouseLook",
+          "isPartOfComposite": false,
+          "path": "<Mouse>/delta"
+        },
+        {
+          "id": "e2ceaf62-f36a-492b-81ff-9a56df330b99",
+          "name": "",
+          "isComposite": false,
+          "action": "Jump",
+          "isPartOfComposite": false,
+          "path": "<Keyboard>/space"
+        },
+        {
+          "id": "f483fbc5-014b-4731-9a25-e1b6c2c1a86e",
+          "name": "",
+          "isComposite": false,
+          "action": "Jump",
+          "isPartOfComposite": false,
+          "path": "<Gamepad>/buttonSouth"
+        },
+        {
+          "id": "8fc2aaba-ca5a-48f1-af11-ce53dfc750d7",
+          "name": "",
+          "isComposite": false,
+          "action": "SpinDash",
+          "isPartOfComposite": false,
+          "path": "<Keyboard>/leftCtrl"
+        },
+        {
+          "id": "529785df-937e-4de7-a30a-df91a88f5b16",
+          "name": "",
+          "isComposite": false,
+          "action": "SpinDash",
+          "isPartOfComposite": false,
+          "path": "<Gamepad>/buttonEast"
+        },
+        {
+          "id": "d552d9c4-7ed5-4768-98af-59e980709a3e",
+          "name": "",
+          "isComposite": false,
+          "action": "Roll",
+          "isPartOfComposite": false,
+          "path": "<Keyboard>/leftShift"
+        },
+        {
+          "id": "8a0f52ad-bf42-4791-befe-8b8255c896c8",
+          "name": "",
+          "isComposite": false,
+          "action": "Roll",
+          "isPartOfComposite": false,
+          "path": "<Gamepad>/rightShoulder"
+        },
+        {
+          "id": "2dad9863-8809-4a45-bf26-2d38a46f6ddc",
+          "name": "",
+          "isComposite": false,
+          "action": "Pause",
+          "isPartOfComposite": false,
+          "path": "<Keyboard>/escape"
+        },
+        {
+          "id": "46c68061-0fa6-45df-ae90-b2b81f87f603",
+          "name": "",
+          "isComposite": false,
+          "action": "Confirm",
+          "isPartOfComposite": false,
+          "path": "<Keyboard>/enter"
+        },
+        {
+          "id": "04f1ed62-71be-40b5-92e7-1f171e869237",
+          "name": "",
+          "isComposite": false,
+          "action": "Pause",
+          "isPartOfComposite": false,
+          "path": "<Gamepad>/start"
+        },
+        {
+          "id": "2d8bedcf-c199-4dbe-beb0-f4085b3d86aa",
+          "name": "",
+          "isComposite": false,
+          "action": "Reset",
+          "isPartOfComposite": false,
+          "path": "<Keyboard>/r"
+        },
+        {
+          "id": "161dc9f6-978b-4864-b282-565fee1b1e49",
+          "name": "",
+          "isComposite": false,
+          "action": "Confirm",
+          "isPartOfComposite": false,
+          "path": "<Keyboard>/space"
+        },
+        {
+          "id": "d92cd3ba-ac0f-424c-991f-8220ad2a1595",
+          "name": "",
+          "isComposite": false,
+          "action": "Confirm",
+          "isPartOfComposite": false,
+          "path": "<Gamepad>/buttonSouth"
+        }
+      ],
+      "id": "e267921f-4dce-4529-9eb9-7d2dccaf94a5",
+      "actions": [
+        {
+          "id": "01192d04-b82b-45ce-976d-096484ffcba8",
+          "expectedControlType": "Vector2",
+          "type": "Value",
+          "name": "Move"
+        },
+        {
+          "id": "4592789e-6bd4-427a-b1c6-183175e61723",
+          "expectedControlType": "Vector2",
+          "type": "Value",
+          "name": "Look"
+        },
+        {
+          "id": "f00a1427-842d-490c-9feb-9201442edd69",
+          "expectedControlType": "Vector2",
+          "type": "Value",
+          "name": "MouseLook"
+        },
+        {
+          "id": "eb197efe-c143-4a85-a8d9-3573a4cfa024",
+          "expectedControlType": "Button",
+          "type": "Button",
+          "name": "Jump"
+        },
+        {
+          "id": "f59f125a-4cf8-4cdd-aab9-7e570f8f16c7",
+          "expectedControlType": "Button",
+          "type": "Button",
+          "name": "SpinDash"
+        },
+        {
+          "id": "e3dfa2c9-7e41-47a4-83c9-e644853daace",
+          "expectedControlType": "Button",
+          "type": "Button",
+          "name": "Roll"
+        },
+        {
+          "id": "05a1d5a7-95d8-448d-aae0-425fe882ddcf",
+          "expectedControlType": "Button",
+          "type": "Button",
+          "name": "Pause"
+        },
+        {
+          "id": "580057de-45a1-4a41-bc41-92d541804f12",
+          "expectedControlType": "Button",
+          "type": "Button",
+          "name": "Reset"
+        },
+        {
+          "name": "Confirm",
+          "type": "Button",
+          "id": "6c5f6a3d-7bd3-458e-8877-29dfaccbd871",
+          "expectedControlType": "Button",
+          "initialStateCheck": false
+        }
+      ],
+      "name": "Gameplay"
+    }
+  ],
+  "name": "HedgeControls"
+}
